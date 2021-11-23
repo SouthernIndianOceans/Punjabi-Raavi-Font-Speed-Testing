@@ -1,4 +1,4 @@
-# Punjabi-Typing-Speed-Test-in-Raavi (Introducation)
+# Punjabi-Typing-Speed-Test-in-Raavi (Introduction)
 
 Hello everyone, I am  glad to present the 1st version of Punjabi Typing test software which is free and open source. 
 Always looking for your feedback. If you face any kind of issues, feel free to start discussion. New ideas are most welcome.
